@@ -13,7 +13,6 @@ Using github as a web server
 - Validate your work with https://validator.w3.org
 
 ## Assignment 3:
-
 Choose one of the following topics and create an HTML solution
 that you can extend over the course of this semester.
 
