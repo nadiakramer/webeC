@@ -1,0 +1,31 @@
+h1{
+    color: #000000;
+
+}
+
+h2{
+    font-size: 20px;
+}
+
+#title{
+    font-family: "Rockwell";
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#context{
+    font-family: "Arial Narrow";
+}
+
+#content {
+    font-family: "Arial Narrow";
+}
+
+#table{
+    background: black;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
