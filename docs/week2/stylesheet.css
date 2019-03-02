@@ -1,31 +1,131 @@
-h1{
-    color: #000000;
+html{
+    height: 100%
+}
 
+body{
+    background-color: black;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+    height: 100%;
+    font-family: Lato;
+
+}
+
+#firstP{
+    color: white;
+    text-align: center;
+}
+
+button{
+    font-size: 15px;
+    background: white;
+    border-radius: 150%;
+    font-family: Lato;
+    font-weight: bold;
+    color: black;
+    height: 0;
+    padding-bottom: 9%;
+    padding-top: 6%;
+    width: 15%;
+    overflow: hidden;
+    border: black;
+    text-align: center;
+    min-height: 100px;
+    min-width: 100px;
+    margin: 2%;
+}
+
+button:hover{
+    background: #c20000;
+    color: white;
+    border-radius: 200%;
+    height: 0;
+    padding-bottom: 11%;
+    padding-top: 9%;
+    width: 20%;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
 }
 
 h2{
-    font-size: 20px;
-}
-
-#title{
-    font-family: "Rockwell";
-    font-weight: bold;
-    font-size: 35px;
-}
-
-#context{
-    font-family: "Arial Narrow";
-}
-
-#content {
-    font-family: "Arial Narrow";
-}
-
-#table{
-    background: black;
+    font-size: 40px;
     color: white;
-    border-radius: 20px;
-    padding: 10px;
+    text-align: center;
+}
+
+dfn{
+    color: #c20000;
+    font-style: normal;
+}
+
+.left{
+    width: 10%;
+}
+
+.right{
+    width: 10%;
 }
 
 
+table{
+    width: 100%;
+    padding: 20px;
+}
+
+th{
+    padding: 20px;
+    background: #c20000;
+    color: white;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+tr{
+    padding: 20px 10px;
+    background-color: black;
+    color: white;
+}
+
+th, td{
+    padding: 8px;
+}
+
+#mandatory{
+    background: #434343;
+}
+
+#effortText{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+code{
+    color: #c20000;
+}
+
+#criteria{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+address{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+svg{
+   color: white;
+}
