@@ -1,0 +1,45 @@
+button{
+    font-size: 15px;
+    background: black;
+    color: white;
+    height: 0;
+    padding-bottom: 11%;
+    padding-top: 9%;
+    width: 20%;
+    overflow: hidden;
+    border: black;
+    text-align: center;
+    alignment: center;
+}
+
+button:hover{
+    height: 0;
+    padding-bottom: 16%;
+    padding-top: 14%;
+    width: 30%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+dfn{
+    color: #c20000;
+    font-style: normal;
+}
+#snake{
+    background-image: url("snake.PNG");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#ball{
+    background-image: url("ball.PNG");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
