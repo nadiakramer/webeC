@@ -4,12 +4,6 @@ html{
 
 body{
     background-color: black;
-    background-repeat:no-repeat;
-    -webkit-background-size:cover;
-    -moz-background-size:cover;
-    -o-background-size:cover;
-    background-size:cover;
-    background-position:center;
     height: 100%;
     font-family: Lato;
 
@@ -52,8 +46,6 @@ button:hover{
 h1{
     font-size: 50px;
     color: white;
-    alignment: center;
-    font-family: 'Arial Black'
 }
 
 h2{
@@ -75,9 +67,6 @@ dfn{
     width: 10%;
 }
 
-div{
-    alignment: center;
-}
 
 table{
     width: 100%;
