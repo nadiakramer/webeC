@@ -52,6 +52,8 @@ button:hover{
 h1{
     font-size: 50px;
     color: white;
+    alignment: center;
+    font-family: 'Arial Black'
 }
 
 h2{
@@ -73,6 +75,9 @@ dfn{
     width: 10%;
 }
 
+div{
+    alignment: center;
+}
 
 table{
     width: 100%;
