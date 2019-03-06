@@ -1,7 +1,7 @@
 body{
     background-color: black;
     height: 100%;
-    font-family: Lato;
+    font-family: Lato, 'sans-serif';
 
 }
 
@@ -14,7 +14,7 @@ button{
     font-size: 15px;
     background: white;
     border-radius: 150%;
-    font-family: Lato;
+    font-family: Lato, 'sans-serif';
     font-weight: bold;
     color: black;
     height: 0;
